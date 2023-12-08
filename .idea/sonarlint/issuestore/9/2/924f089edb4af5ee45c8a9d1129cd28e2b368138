@@ -1,0 +1,18 @@
+
+0
+java:S1220""Move this file to a named package.
+d
+java:S1659	"BDeclare "lado2" and all following declarations on a separate line.(»­ª»ûÿÿÿÿ8ÀßÊÄ1
+G	java:S106."+Replace this use of System.out by a logger.(©¤ÇÃ8ëßÊÄ1
+G	java:S1063"+Replace this use of System.out by a logger.(µÚÓ8ïßÊÄ1
+F	java:S1066"+Replace this use of System.out by a logger.(Á‹)8òßÊÄ1
+L	java:S106:"+Replace this use of System.out by a logger.(ç÷íúÿÿÿÿ8ößÊÄ1
+G	java:S106<"+Replace this use of System.out by a logger.(­úºÔ8øßÊÄ1
+l
+java:S6201C"JReplace this instanceof check and cast with 'instanceof Quadrado quadrado'(šÂ¡Æıÿÿÿÿ8üßÊÄ1
+L	java:S106E"+Replace this use of System.out by a logger.(ÈúÊ¶úÿÿÿÿ8ıßÊÄ1
+n
+java:S6201F"LReplace this instanceof check and cast with 'instanceof Retangulo retangulo'(Û¾èÎÿÿÿÿÿ8€‚ßÊÄ1
+L	java:S106H"+Replace this use of System.out by a logger.(èÅ‡Ûùÿÿÿÿ8‚‚ßÊÄ1
+F	java:S106J"+Replace this use of System.out by a logger.(ÕŸ–d8„‚ßÊÄ1
+L	java:S106K"+Replace this use of System.out by a logger.(ÄÙìšıÿÿÿÿ8‡‚ßÊÄ1
